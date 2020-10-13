@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'NetGala',
-  subHeading: 'Web master in charge of increasing sales and conversion',
+  subHeading: 'Web master in increasing sales and conversion',
   // social
   socialLinks: [
     {
