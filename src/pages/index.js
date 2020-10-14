@@ -15,9 +15,9 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-        <div className="logo">
+        {/*<div className="logo">
           <span className="icon fa-diamond"></span>
-        </div>
+        </div>*/}
         <h2>{config.heading}</h2>
         <p>{config.subHeading}</p>
       </div>
@@ -30,12 +30,12 @@ const IndexPage = () => (
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Superior Technology</h2>
+          <h2 className="major">Customer experience</h2>
             <p>
-              Websites must be fast, responsive, secure and easy to use.
-              Vastly superior to the tradional website. 
-              We use a lil something something called the JAMstack and GatsbyJS.
+            Do your customers like using your site and products? 
+            Can they find what they need? Do they have a positive impression of your company?
             </p>
+            
             <a href="/#" className="special">
               Learn more
             </a>
@@ -49,10 +49,11 @@ const IndexPage = () => (
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Marketing Machine</h2>
+          <h2 className="major">Brand visibility</h2>
             <p>
-              We can sort all this out for you or we can hand over the reigns to the marketing team. 
-              Etiher or is no problem.
+            Making sure people are learning about your company by showing up in all the right places. 
+            This can be accomplished through things like SEO (search engine optimization),
+             buying ad space, and gaining influence through content creation and/or socail media participation.
             </p>
             <a href="/#" className="special">
               Learn more
@@ -67,10 +68,10 @@ const IndexPage = () => (
             <img src={pic3} alt="" />
           </a>
           <div className="content">
-            <h2 className="major">Sales Powerhouse</h2>
+            <h2 className="major">Competative edge</h2>
             <p>
-              Need to make your site transactional? Ecommerce we do that. 
-              Want your site to hit different? I feel dat.
+            Distinguishing yourself from your competitors by delivering unique value that helps you
+             claim a greater share of the market.
             </p>
             <a href="/#" className="special">
               Learn more
@@ -81,22 +82,19 @@ const IndexPage = () => (
 
       <section id="four" className="wrapper alt style1">
         <div className="inner">
-          <h2 className="major">Vitae phasellus</h2>
+          <h2 className="major">What do we do</h2>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+          One of the primary drawbacks of a monolithic CMS like WordPress or Drupal is that the frontend theming layer is tightly coupled with the backend data layer. That means that a developer working only in the theme layer must still be comfortable with PHP, a backend programming language. In a headless approach, using JavaScript at the render layer, a themer only needs to know HTML, CSS, and JavaScript, the languages already in their toolkit.
+          If the client is suffering from slow developer velocity, this benefit will resonate and provide value to their organization.
           </p>
           <section className="features">
             <article>
               <a href="/#" className="image">
                 <img src={pic4} alt="" />
               </a>
-              <h3 className="major">Sed feugiat lorem</h3>
+              <h3 className="major">Sick of your developers</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                
               </p>
               <a href="/#" className="special">
                 Learn more
