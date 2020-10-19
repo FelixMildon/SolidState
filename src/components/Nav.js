@@ -24,19 +24,10 @@ export default function Nav({ onMenuToggle = () => {} }) {
               }}
               to="/Generic"
             >
-              Generic Page
+              How we're the best
             </Link>
           </li>
-          <li>
-            <Link
-              onClick={e => {
-                onMenuToggle();
-              }}
-              to="/Elements"
-            >
-              Elements
-            </Link>
-          </li>
+          
         </ul>
         <a
           className="close"
