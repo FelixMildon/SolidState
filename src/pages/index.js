@@ -30,10 +30,9 @@ const IndexPage = () => (
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-          <h2 className="major">Customer experience</h2>
+          <h2 className="major">Easy for you</h2>
             <p>
-            Do your customers like using your site and products? 
-            Can they find what they need? Do they have a positive impression of your company?
+            None of the usual headaches, changes are much easier.
             </p>
             
             <a href="/#" className="special">
@@ -51,9 +50,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Brand visibility</h2>
             <p>
-            Making sure people are learning about your company by showing up in all the right places. 
-            This can be accomplished through things like SEO (search engine optimization),
-             buying ad space, and gaining influence through content creation and/or socail media participation.
+            Get discovered and connect with your target audience.
             </p>
             <a href="/#" className="special">
               Learn more
@@ -83,16 +80,13 @@ const IndexPage = () => (
       <section id="four" className="wrapper alt style1">
         <div className="inner">
           <h2 className="major">What do we do</h2>
-          <p>
-          One of the primary drawbacks of a monolithic CMS like WordPress or Drupal is that the frontend theming layer is tightly coupled with the backend data layer. That means that a developer working only in the theme layer must still be comfortable with PHP, a backend programming language. In a headless approach, using JavaScript at the render layer, a themer only needs to know HTML, CSS, and JavaScript, the languages already in their toolkit.
-          If the client is suffering from slow developer velocity, this benefit will resonate and provide value to their organization.
-          </p>
+						<p>Enable businesses to fully leverage the power of web services by delivering evolutionary websites.</p>
           <section className="features">
             <article>
               <a href="/#" className="image">
                 <img src={pic4} alt="" />
               </a>
-              <h3 className="major">Sick of your developers</h3>
+              <h3 className="major">Website Build</h3>
               <p>
                 
               </p>
@@ -104,10 +98,9 @@ const IndexPage = () => (
               <a href="/#" className="image">
                 <img src={pic5} alt="" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">E-Commerce</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+              Over 50% of people will abandon a site if it takes more than 3 seconds to load. Not with your new lightning fast websites and apps. 
               </p>
               <a href="/#" className="special">
                 Learn more
@@ -117,7 +110,7 @@ const IndexPage = () => (
               <a href="/#" className="image">
                 <img src={pic6} alt="" />
               </a>
-              <h3 className="major">Ante fermentum</h3>
+              <h3 className="major">Digital marketing</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
                 nulla dignissim dapibus ultrices.
@@ -130,7 +123,7 @@ const IndexPage = () => (
               <a href="/#" className="image">
                 <img src={pic7} alt="" />
               </a>
-              <h3 className="major">Fusce consequat</h3>
+              <h3 className="major">Custom web elements</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
                 nulla dignissim dapibus ultrices.

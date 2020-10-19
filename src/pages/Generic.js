@@ -9,55 +9,57 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>Generic</h2>
-          <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
+          <h2>How we are the best in web</h2>
+          <p>What is it that gives our website it's edge</p>
         </div>
       </header>
 
       <div className="wrapper">
         <div className="inner">
-          <h3 className="major">Lorem ipsum dolor</h3>
+          
+
+         
+
+          <h2 className="major">Site speed</h2>
           <p>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo
-            donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
+          Gatsby was built with performance in mind from its inception, 
+          and Gatsby sites are consistently 2-3x faster than similar sites built with other tools – pages 
+          load in milliseconds rather than seconds. Gatsby’s automated performance optimizations include 
+          pre-fetching resources, code splitting, statically generating HTML, and Google’s PRPL Pattern.
+          If you want to take a
+          deeper dive into Gatsby’s performance features,
+          check out Web Performance 101 – also, why is Gatsby so fast?.
           </p>
 
+          <h2 className="major">SEO Optimised</h2>
           <p>
-            Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
-            amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
-            id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
-            Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec commodo, vel scelerisque nisi scelerisque. Suspendisse id
-            quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor
-            consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec
-            felis elementum varius.
+          Think of all the time a team spends on creating compelling, 
+          optimized content just to have the search ranking penalized by a slow website. 
+          A Search Engine Optimized website means a higher organic search ranking and more website traffic,
+           which can mean more leads and revenue. Get as much out of your website as you 
+           do your content and see the impact.
           </p>
 
-          <h3 className="major">Vitae phasellus</h3>
+          <h2 className="major">Modern web tools</h2>
           <p>
-            Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-            Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-            egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus
-            in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+          Gatsby sites are built with React - currently the most popular framework for d
+          eveloping web apps, and data can be pulled into your React components via GraphQL. 
+          Gatsby is also built to pull data from any source so you can pick the best tool for each job 
+          and function your site needs to
+          Pull data from the best content management tools, the best e-commerce tools,
+           whatever databases you’re using, and more.
           </p>
+
+          <h2 className="major">Case studies</h2>
 
           <section className="features">
             <article>
               <a href="/#" className="image">
                 <img src={pic4} alt="" />
               </a>
-              <h3 className="major">Sed feugiat lorem</h3>
+              <h3 className="major">Big Company. Big Website.</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+              IBM Uses Gatsby to Manage Enterprise-Level Content
               </p>
               <a href="/#" className="special">
                 Learn more
@@ -67,10 +69,9 @@ const IndexPage = () => (
               <a href="/#" className="image">
                 <img src={pic5} alt="" />
               </a>
-              <h3 className="major">Nisl placerat</h3>
+              <h3 className="major">Increase lead generation.</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+              Youfit uses Gatsby to increase lead generation by 60%
               </p>
               <a href="/#" className="special">
                 Learn more

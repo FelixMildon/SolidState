@@ -4,13 +4,9 @@ export default function Footer() {
   return (
     <section id="footer">
       <div className="inner">
-        <h2 className="major">Get in touch</h2>
+        <h2 className="major">Next step</h2>
         <p>
-          Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
-      
-          Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis
-          egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in
-          tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
+          Fill out the form below or get in touch on social. 
         </p>
         <form method="post" action="/#">
           <div className="fields">
