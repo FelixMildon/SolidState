@@ -27,6 +27,17 @@ export default function Nav({ onMenuToggle = () => {} }) {
               How we're the best
             </Link>
           </li>
+
+          <li>
+            <Link
+              onClick={e => {
+                onMenuToggle();
+              }}
+              to="/contact"
+            >
+              Contact
+            </Link>
+          </li>
           
         </ul>
         <a

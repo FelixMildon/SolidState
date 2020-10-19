@@ -26,9 +26,6 @@ const IndexPage = () => (
           and Gatsby sites are consistently 2-3x faster than similar sites built with other tools – pages 
           load in milliseconds rather than seconds. Gatsby’s automated performance optimizations include 
           pre-fetching resources, code splitting, statically generating HTML, and Google’s PRPL Pattern.
-          If you want to take a
-          deeper dive into Gatsby’s performance features,
-          check out Web Performance 101 – also, why is Gatsby so fast?.
           </p>
 
           <h2 className="major">SEO Optimised</h2>
