@@ -2,9 +2,9 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
+import pic1 from '../assets/images/testgif2.gif';
+import pic2 from '../assets/images/testgif.gif';
+import pic3 from '../assets/images/testgif3.gif';
 import pic4 from '../assets/images/pic04.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 import pic6 from '../assets/images/pic06.jpg';
@@ -88,7 +88,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Website Build</h3>
               <p>
-                
+                Get a designer website to show off your business.
               </p>
               <a href="/#" className="special">
                 Learn more
@@ -100,7 +100,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">E-Commerce</h3>
               <p>
-              Over 50% of people will abandon a site if it takes more than 3 seconds to load. Not with your new lightning fast websites and apps. 
+              Over 50% of people will abandon a site if it takes more than 3 seconds to load, so you better be fast. 
               </p>
               <a href="/#" className="special">
                 Learn more
@@ -112,8 +112,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Digital marketing</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                Connect to your customers
               </p>
               <a href="/#" className="special">
                 Learn more
@@ -125,8 +124,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Custom web elements</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id
-                nulla dignissim dapibus ultrices.
+                A feature like a calander or something fancier perhaps?
               </p>
               <a href="/#" className="special">
                 Learn more
