@@ -12,7 +12,7 @@ import pic7 from '../assets/images/pic07.jpg';
 
 import config from '../../config';
 const IndexPage = () => (
-  <Layout>
+  <Layout fullMenu>
     <section id="banner">
       <div className="inner">
         {/*<div className="logo">
@@ -50,7 +50,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Get discovered</h2>
             <p>
-            Have the best brand visablity and connect with your target audience.
+            Be seen on the web and connect with your target audience.
             </p>
             <a href="/#" className="special">
               Learn more
@@ -67,7 +67,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Competative edge</h2>
             <p>
-            Use technology to bring your company to capacity. 
+            Use technology to enable the best version of your business. 
             </p>
             <a href="/#" className="special">
               Learn more
@@ -87,7 +87,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Website Build</h3>
               <p>
-                A strong online presance that says "we're open for businesses"
+                A strong online presance that legitimises your business
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -111,7 +111,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Digital marketing</h3>
               <p>
-                If you're not seen you're not heard.
+                Customers should be seeing you in their google searches, instagram stories, facebook feeds. Anywhere the target audience is you are too!
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -123,7 +123,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Custom Web Elements</h3>
               <p>
-                We handcraft your website so adding in features wont "break the code"
+                You dream it, we build it. Your website is an app under the hood and has all the capabilities. 
               </p>
               <a href="/#" className="special">
                 Learn more

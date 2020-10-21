@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'NetGala',
-  subHeading: 'Websites made with modern web tools',
+  heading: 'Websites',
+  subHeading: 'Built with modern web tools',
   // social
   socialLinks: [
     {
