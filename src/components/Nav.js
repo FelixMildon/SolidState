@@ -24,7 +24,7 @@ export default function Nav({ onMenuToggle = () => {} }) {
               }}
               to="/Generic"
             >
-              How we're the best
+              Technical
             </Link>
           </li>
 

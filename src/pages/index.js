@@ -32,7 +32,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Easy for you</h2>
             <p>
-            None of the usual headaches, changes are much easier.
+            You're in full control of your websites content, customer data and analytics.
             </p>
             
             <a href="/#" className="special">
@@ -48,9 +48,9 @@ const IndexPage = () => (
             <img src={pic2} alt="" />
           </a>
           <div className="content">
-          <h2 className="major">Brand visibility</h2>
+          <h2 className="major">Get discovered</h2>
             <p>
-            Get discovered and connect with your target audience.
+            Have the best brand visablity and connect with your target audience.
             </p>
             <a href="/#" className="special">
               Learn more
@@ -67,8 +67,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Competative edge</h2>
             <p>
-            Distinguishing yourself from your competitors by delivering unique value that helps you
-             claim a greater share of the market.
+            Use technology to bring your company to capacity. 
             </p>
             <a href="/#" className="special">
               Learn more
@@ -83,48 +82,48 @@ const IndexPage = () => (
 						<p>Enable businesses to fully leverage the power of web services by delivering evolutionary websites.</p>
           <section className="features">
             <article>
-              <a href="/#" className="image">
+              <a href="/contact" className="image">
                 <img src={pic4} alt="" />
               </a>
               <h3 className="major">Website Build</h3>
               <p>
-                Get a designer website to show off your business.
+                A strong online presance that says "we're open for businesses"
               </p>
-              <a href="/#" className="special">
+              <a href="/contact" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/contact" className="image">
                 <img src={pic5} alt="" />
               </a>
               <h3 className="major">E-Commerce</h3>
               <p>
               Over 50% of people will abandon a site if it takes more than 3 seconds to load, so you better be fast. 
               </p>
-              <a href="/#" className="special">
+              <a href="/contact" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/contact" className="image">
                 <img src={pic6} alt="" />
               </a>
               <h3 className="major">Digital marketing</h3>
               <p>
-                Connect to your customers
+                If you're not seen you're not heard.
               </p>
-              <a href="/#" className="special">
+              <a href="/contact" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="/contact" className="image">
                 <img src={pic7} alt="" />
               </a>
-              <h3 className="major">Custom web elements</h3>
+              <h3 className="major">Custom Web Elements</h3>
               <p>
-                A feature like a calander or something fancier perhaps?
+                We handcraft your website so adding in features wont "break the code"
               </p>
               <a href="/#" className="special">
                 Learn more
