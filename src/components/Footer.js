@@ -44,10 +44,7 @@ export default function Footer() {
           })}
         </ul>
         <ul className="copyright">
-          <li>&copy; 2020 Netgala.</li>
-          <li>
-            Best Websites in the country.
-          </li>
+          <li>&copy; 2020 NetGala. Best Websites in NZ.</li>
         </ul>
       </div>
     </section>

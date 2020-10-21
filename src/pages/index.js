@@ -32,7 +32,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Easy for you</h2>
             <p>
-            You're in full control of your websites content, customer data and analytics.
+            You're in full control of your website content, customer data and analytics.
             </p>
             
             <a href="/#" className="special">
@@ -67,7 +67,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Competative edge</h2>
             <p>
-            Use technology to enable the best version of your business. 
+            Use technology to steam ahead in your industry. 
             </p>
             <a href="/#" className="special">
               Learn more
@@ -79,7 +79,7 @@ const IndexPage = () => (
       <section id="four" className="wrapper alt style1">
         <div className="inner">
           <h2 className="major">What do we do</h2>
-						<p>Enable businesses to fully leverage the power of web services by delivering evolutionary websites.</p>
+						<p>Everything and anything you'll need online. Our goal is to enable businesses to fully leverage the power of web services by delivering evolutionary websites.</p>
           <section className="features">
             <article>
               <a href="/contact" className="image">
