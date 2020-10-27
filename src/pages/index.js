@@ -35,7 +35,7 @@ const IndexPage = () => (
             You're in full control of your website content, customer data and analytics.
             </p>
             
-            <a href="/#" className="special">
+            <a href="/contact" className="special">
               Learn more
             </a>
           </div>
@@ -44,7 +44,7 @@ const IndexPage = () => (
 
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
-          <a href="/#" className="image">
+          <a href="/contact" className="image">
             <img src={pic2} alt="" />
           </a>
           <div className="content">
@@ -52,7 +52,7 @@ const IndexPage = () => (
             <p>
             Be seen on the web and connect with your target audience.
             </p>
-            <a href="/#" className="special">
+            <a href="/contact" className="special">
               Learn more
             </a>
           </div>
@@ -61,7 +61,7 @@ const IndexPage = () => (
 
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
-          <a href="/#" className="image">
+          <a href="/contact" className="image">
             <img src={pic3} alt="" />
           </a>
           <div className="content">
@@ -69,7 +69,7 @@ const IndexPage = () => (
             <p>
             Use technology to steam ahead in your industry. 
             </p>
-            <a href="/#" className="special">
+            <a href="/contact" className="special">
               Learn more
             </a>
           </div>
@@ -125,15 +125,15 @@ const IndexPage = () => (
               <p>
                 You dream it, we build it. Your website is an app under the hood and has all the capabilities. 
               </p>
-              <a href="/#" className="special">
+              <a href="/contact" className="special">
                 Learn more
               </a>
             </article>
           </section>
           <ul className="actions">
             <li>
-              <a href="/#" className="button">
-                Browse All
+              <a href="/contact" className="button">
+                Get website built
               </a>
             </li>
           </ul>

@@ -51,26 +51,26 @@ const IndexPage = () => (
 
           <section className="features">
             <article>
-              <a href="/#" className="image">
+              <a href="https://www.gatsbyjs.com/blog/2018-12-17-ibm-case-study/" className="image">
                 <img src={pic4} alt="" />
               </a>
               <h3 className="major">Big Company. Big Website.</h3>
               <p>
               IBM Uses Gatsby to Manage Enterprise-Level Content
               </p>
-              <a href="/#" className="special">
+              <a href="https://www.gatsbyjs.com/blog/2018-12-17-ibm-case-study/" className="special">
                 Learn more
               </a>
             </article>
             <article>
-              <a href="/#" className="image">
+              <a href="https://www.gatsbyjs.com/blog/2018-11-16-youfit-case-study/" className="image">
                 <img src={pic5} alt="" />
               </a>
               <h3 className="major">Increase lead generation.</h3>
               <p>
               Youfit uses Gatsby to increase lead generation by 60%
               </p>
-              <a href="/#" className="special">
+              <a href="https://www.gatsbyjs.com/blog/2018-11-16-youfit-case-study/" className="special">
                 Learn more
               </a>
             </article>
