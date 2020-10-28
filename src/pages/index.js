@@ -2,9 +2,9 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import pic1 from '../assets/images/testgif2.gif';
-import pic2 from '../assets/images/testgif.gif';
-import pic3 from '../assets/images/testgif3.gif';
+import pic1 from '../assets/images/testgif2webp.webp';
+import pic2 from '../assets/images/testgifwebp.webp';
+import pic3 from '../assets/images/testgif3webp.webp';
 import pic4 from '../assets/images/pic04new.jpg';
 import pic5 from '../assets/images/pic05new.jpeg';
 import pic6 from '../assets/images/pic06NEW.jpg';
