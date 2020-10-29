@@ -5,10 +5,10 @@ import Layout from '../components/Layout';
 import pic1 from '../assets/images/testgif2webp.webp';
 import pic2 from '../assets/images/testgifwebp.webp';
 import pic3 from '../assets/images/testgif3webp.webp';
-import pic4 from '../assets/images/pic04new.jpg';
-import pic5 from '../assets/images/pic05new.jpeg';
-import pic6 from '../assets/images/pic06NEW.jpg';
-import pic7 from '../assets/images/pic07.jpg';
+import pic4 from '../assets/images/pic04webp.webp';
+import pic5 from '../assets/images/pic05webp.webp';
+import pic6 from '../assets/images/pic06webp.webp';
+import pic7 from '../assets/images/pic07webp.webp';
 
 import config from '../../config';
 const IndexPage = () => (
@@ -26,13 +26,13 @@ const IndexPage = () => (
     <section id="wrapper">
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
-          <a href="/#" className="image">
+          <a href="/contact" className="image">
             <img src={pic1} alt="" />
           </a>
           <div className="content">
-          <h2 className="major">Easy for you</h2>
+          <h2 className="major">Curated for you</h2>
             <p>
-            You're in full control of your website content, customer data and analytics.
+            Personalised website content, customer data and analytics.
             </p>
             
             <a href="/contact" className="special">
