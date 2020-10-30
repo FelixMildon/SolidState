@@ -4,6 +4,7 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
+    siteUrl: `https://www.netgala.co.nz`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -32,5 +33,6 @@ module.exports = {
     
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
+    'gatsby-plugin-sitemap',
   ],
 };
