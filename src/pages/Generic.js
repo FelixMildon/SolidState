@@ -9,8 +9,8 @@ const IndexPage = () => (
     <section id="wrapper">
       <header>
         <div className="inner">
-          <h2>How we are the best in web</h2>
-          <p>What is it that gives our website it's edge</p>
+          <h2>How are we the best in web?</h2>
+          <p>What is it that gives our website it's edge?</p>
         </div>
       </header>
 
