@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Web Tech',
-  subHeading: 'Built with moodern web tools',
+  subHeading: 'Built with modern web tools',
   // social
   socialLinks: [
     {
@@ -33,6 +33,6 @@ module.exports = {
       url: 'mailto:felix@netgala.co.nz',
     },
   ],
-  phone: '020 4089 7646',
+  phone: 'tel:020 4089 7646',
   address: 'Paremoremo, Auckland, NZ',
 };
