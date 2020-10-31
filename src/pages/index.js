@@ -64,7 +64,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Competative edge</h2>
             <p>
-            Use technology to steam ahead in your industry. 
+            Use technology to lead your industry. 
             </p>
             <a href="/contact" className="special">
               Learn more
