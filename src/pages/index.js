@@ -27,11 +27,11 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
           <a href="/contact" className="image">
-            <img src={pic2} alt="" />
+            <img src={pic1} alt="" />
           </a>
           <div className="content">
           <h2 className="major">Get discovered</h2>
-            <p>Be seen on the web and connect with your target audience.</p>
+            <p>Be seen on the web and connect with your desired audience.</p>
             
             <a href="/contact" className="special">
               Learn more
@@ -43,7 +43,7 @@ const IndexPage = () => (
       <section id="two" className="wrapper alt spotlight style2">
         <div className="inner">
           <a href="/contact" className="image">
-            <img src={pic1} alt="" />
+            <img src={pic3} alt="" />
           </a>
           <div className="content">
           <h2 className="major">Curated for you</h2>
@@ -59,7 +59,7 @@ const IndexPage = () => (
       <section id="three" className="wrapper spotlight style3">
         <div className="inner">
           <a href="/contact" className="image">
-            <img src={pic3} alt="" />
+            <img src={pic2} alt="" />
           </a>
           <div className="content">
             <h2 className="major">Competative edge</h2>

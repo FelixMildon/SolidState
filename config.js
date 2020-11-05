@@ -33,6 +33,6 @@ module.exports = {
       url: 'mailto:felix@netgala.co.nz',
     },
   ],
-  phone: 'tel:020 4089 7646',
+  phone: '020 4089 7646',
   address: 'Paremoremo, Auckland, NZ',
 };
