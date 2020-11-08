@@ -7,8 +7,8 @@ const IndexPage = () => (
     <div className="wrapper">
         <div className="inner">
             <h2 className="major">Keen! What now?</h2>
-            <p>All that's needed is a deep understanding of your business. </p>
-            <p>To best serve your website we'll chat on a video call or meet in person around Auckland .</p>
+            <p>All that's needed is an understanding of your business. </p>
+            <p>To best serve your customers we will have a quick chat.</p>
         </div>
     </div>
     </Layout>
