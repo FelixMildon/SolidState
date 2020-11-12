@@ -34,5 +34,5 @@ module.exports = {
     },
   ],
   phone: '020 4089 7646',
-  address: 'Paremoremo, Auckland, NZ',
+  address: 'Auckland, NZ',
 };
