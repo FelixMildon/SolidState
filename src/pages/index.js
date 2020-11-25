@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Layout from '../components/Layout';
 
 import pic1 from '../assets/images/testgif2webp.webp';
@@ -8,8 +7,7 @@ import pic3 from '../assets/images/testgif3webp.webp';
 import pic4 from '../assets/images/pic04webp.webp';
 import pic5 from '../assets/images/pic05webp.webp';
 import pic6 from '../assets/images/pic06webp.webp';
-import pic7 from '../assets/images/pic07webp.webp';
-
+import Picture7 from '../components/Picture7';
 import config from '../../config';
 const IndexPage = () => (
   <Layout fullMenu>
@@ -116,7 +114,7 @@ const IndexPage = () => (
             </article>
             <article>
               <a href="/contact" className="image">
-                <img src={pic7} alt="" />
+              <Picture7/>
               </a>
               <h3 className="major">Custom Web Elements</h3>
               <p>
