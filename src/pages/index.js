@@ -46,7 +46,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Curated for you</h2>
             <p>
-            Personalised website content, customer data and analytics.</p>
+            Tell your story and be heard by the right people.</p>
             <a href="/contact" className="special">
               Learn more
             </a>
@@ -62,7 +62,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Competative edge</h2>
             <p>
-            Use technology to lead your industry. 
+            Embrace new web technology and take advantage of superior performance, uptime, and cost-savings.
             </p>
             <a href="/contact" className="special">
               Learn more
@@ -74,7 +74,7 @@ const IndexPage = () => (
       <section id="four" className="wrapper alt style1">
         <div className="inner">
           <h2 className="major">What do we do</h2>
-						<p>Everything and anything you'll need online. Our goal is to enable businesses to fully leverage the power of web services by delivering evolutionary websites.</p>
+						<p>Anything and everything you need to put your best foot forward online. Your web soultion </p>
           <section className="features">
             <article>
               <a href="/contact" className="image">
