@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Web Tech',
-  subHeading: 'People crave information and are looking for it online.',
+  subHeading: 'Preformance focused websites/apps & ecommerce.',
   // social
   socialLinks: [
     {

@@ -29,7 +29,7 @@ const IndexPage = () => (
           </a>
           <div className="content">
           <h2 className="major">Get discovered</h2>
-            <p>Be seen on the web and connect with your desired audience.</p>
+            <p>Be seen on the web and connect with your desired audience, by having your story told and being heard by the right people.</p>
             
             <a href="/contact" className="special">
               Learn more
@@ -46,7 +46,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Curated for you</h2>
             <p>
-            Tell your story and be heard by the right people.</p>
+            Own a timeless website that evolves as technology does.</p>
             <a href="/contact" className="special">
               Learn more
             </a>

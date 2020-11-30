@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           Send us a msg on any of the platforms below:
         </p>
-        <form className="contact-form" action="/thanks" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+        <form className="contact-form" action="/" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
