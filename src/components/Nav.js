@@ -27,7 +27,16 @@ export default function Nav({ onMenuToggle = () => {} }) {
               Technical
             </Link>
           </li>
-
+          <li>
+            <Link
+              onClick={e => {
+                onMenuToggle();
+              }}
+              to="/blog"
+            >
+              Blog
+            </Link>
+          </li>
           <li>
             <Link
               onClick={e => {

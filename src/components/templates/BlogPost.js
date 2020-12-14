@@ -1,19 +1,28 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
+import Layout from "../Layout"
 
 const BlogPost = ({ data }) => {
   console.log("data,", data)
   return (
-    <div>
-      <div>
-        <h2>{data.markdownRemark.frontmatter.title}</h2>
+    <Layout fullMenu>
+      <div className="wrapper">
+      <header>
+        <div className="inner">
+        
+        <h2 className="major">{data.markdownRemark.frontmatter.title}</h2>
+        <p>hi</p>
         <Img
           fixed={data.markdownRemark.frontmatter.image.childImageSharp.fixed}
         />
         <div> {data.markdownRemark.frontmatter.description}</div>
+        <p>{data.markdownRemark.rawMarkdownBody}</p>
       </div>
-    </div>
+      </header>
+      </div>
+ 
+    </Layout>
   )
 }
 
@@ -25,8 +34,11 @@ export const BlogPostTemplateQuery = graphql`
       fields {
         slug
       }
+      rawMarkdownBody
+
       frontmatter {
         title
+     
         description
         image {
           childImageSharp {
