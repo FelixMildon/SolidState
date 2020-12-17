@@ -9,7 +9,7 @@ export default function Footer() {
           Send us a msg on any of the platforms below:
         </p>
         <form className="contact-form" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
-          <div className="fields">
+         
             <div className="field">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
@@ -22,7 +22,7 @@ export default function Footer() {
               <label htmlFor="message">Message</label>
               <textarea name="message" id="message" rows="4"></textarea>
             </div>
-          </div>
+          
           <ul className="actions">
             <li>
               <input type="submit" value="Send Message" />
