@@ -22,7 +22,7 @@ export default function Nav({ onMenuToggle = () => {} }) {
               onClick={e => {
                 onMenuToggle();
               }}
-              to="/Generic"
+              to="/technical"
             >
               Technical
             </Link>
