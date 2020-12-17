@@ -22,9 +22,9 @@ const IndexPage = () => (
 
           <h2 className="major">Site speed</h2>
           <p>
-          Gatsby was built with performance in mind from its inception, 
-          and Gatsby sites are consistently 2-3x faster than similar sites built with other tools – pages 
-          load in milliseconds rather than seconds. Gatsby’s automated performance optimizations include 
+          We build the web with performance baked into the foundation, 
+          our sites are on average 3x faster than similar sites built with alternative tools – pages 
+          load in milliseconds rather than seconds. We use automated performance optimizations include 
           pre-fetching resources, code splitting, statically generating HTML, and Google’s PRPL Pattern.
           </p>
 

@@ -12,11 +12,11 @@ const BlogPost = ({ data }) => {
         <div className="inner">
         
         <h2 className="major">{data.markdownRemark.frontmatter.title}</h2>
-        <p>hi</p>
+        
+        <h3> {data.markdownRemark.frontmatter.description}</h3>
         <Img
           fixed={data.markdownRemark.frontmatter.image.childImageSharp.fixed}
         />
-        <div> {data.markdownRemark.frontmatter.description}</div>
         <p>{data.markdownRemark.rawMarkdownBody}</p>
       </div>
       </header>
@@ -42,7 +42,7 @@ export const BlogPostTemplateQuery = graphql`
         description
         image {
           childImageSharp {
-            fixed(width: 200) {
+            fixed(width: 77) {
               ...GatsbyImageSharpFixed
             }
           }
