@@ -25,12 +25,11 @@ const IndexPage = () => (
       <section id="one" className="wrapper spotlight style1">
         <div className="inner">
           <a href="/contact" className="image">
-            <img src={pic1} alt="" />
+            <img src={pic1} alt="spinning 3d graph gif" />
           </a>
           <div className="content">
           <h2 className="major">Get discovered</h2>
-            <p>Be seen on the web and connect with your desired audience, by having your story told and being heard by the right people.</p>
-            
+            <p>Be seen on the web and connect with your desired audience.</p>
             <a href="/contact" className="special">
               Learn more
             </a>
@@ -46,7 +45,7 @@ const IndexPage = () => (
           <div className="content">
           <h2 className="major">Curated for you</h2>
             <p>
-            Own a timeless website that evolves as technology does.</p>
+            Own a timeless website that evolves with technology.</p>
             <a href="/contact" className="special">
               Learn more
             </a>
@@ -74,7 +73,7 @@ const IndexPage = () => (
       <section id="four" className="wrapper alt style1">
         <div className="inner">
           <h2 className="major">What do we do</h2>
-						<p>Anything and everything you need to put your best foot forward online. Your web soultion </p>
+						<p>Search engines, social media and web browsers have changed the way business is done, we are computer scientists that specialise in this.</p>
           <section className="features">
             <article>
               <a href="/contact" className="image">
@@ -82,7 +81,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">Website Build</h3>
               <p>
-                A strong online presance that legitimises your business
+                An online presance that legitimises your business
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -94,7 +93,7 @@ const IndexPage = () => (
               </a>
               <h3 className="major">E-Commerce</h3>
               <p>
-              Over 50% of people will abandon a site if it takes more than 3 seconds to load, so you better be fast. 
+              Over 50% of people will abandon a site if it takes more than 3 seconds to load, don't miss out. 
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -104,9 +103,9 @@ const IndexPage = () => (
               <a href="/contact" className="image">
                 <img src={pic6} alt="" />
               </a>
-              <h3 className="major">Digital marketing</h3>
+              <h3 className="major">Increase foot traffic</h3>
               <p>
-                Customers should be seeing you in their google searches, instagram stories, facebook feeds. Anywhere the target audience is you are too!
+                Customers see you online in searches, stories, feeds. Anywhere the target audience is, you are too!
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -116,9 +115,9 @@ const IndexPage = () => (
               <a href="/contact" className="image">
               <Picture7/>
               </a>
-              <h3 className="major">Custom Web Elements</h3>
+              <h3 className="major">Web Apps & Widgets</h3>
               <p>
-                You dream it, we build it. Your website is an app under the hood and has all the capabilities. 
+                Need your website to do something special? We are programmers focused on functionality.
               </p>
               <a href="/contact" className="special">
                 Learn more
@@ -128,7 +127,7 @@ const IndexPage = () => (
           <ul className="actions">
             <li>
               <a href="/contact" className="button">
-                Get website built
+                Free Quote
               </a>
             </li>
           </ul>

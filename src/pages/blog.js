@@ -17,27 +17,27 @@ const IndexPage = () => (
                     </ul>
                     <section className="features">
                         <article>
-                            <a href="/blog/blogpost" className="image">
-                                <img src={pic4} alt="" />
+                            <a href="/blog/how-to-increase-website-traffic" className="image">
+                                <img src={pic4} alt="website on laptop graphic" />
                             </a>
-                            <h3 className="major">TEST</h3>
+                            <h3 className="major">How to increase website traffic</h3>
                             <p>
-                               TEST
+                               Get more people coming to learn about your offerings
               </p>
-                            <a href="/blog/blogpost" className="special">
+                            <a href="/blog/how-to-increase-website-traffic" className="special">
                                 Learn more
               </a>
                         </article>
 
                         <article>
-                            <a href="/blog/whatwebsiteyouneed" className="image">
-                                <img src={pic4} alt="" />
+                            <a href="/blog/what-website-you-need" className="image">
+                                <img src={pic4} alt="website on laptop graphic" />
                             </a>
-                            <h3 className="major">TEST</h3>
+                            <h3 className="major">What website you need</h3>
                             <p>
-                               TEST
+                               Lead generate, target market and selling online.
               </p>
-                            <a href="/blog/whatwebsiteyouneed" className="special">
+                            <a href="/blog/what-website-you-need" className="special">
                                 Learn more
               </a>
                         </article>

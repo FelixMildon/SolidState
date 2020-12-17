@@ -1,5 +1,5 @@
 ---
-path: blogpost
+path: how-to-increase-website-traffic
 date: 2020-05-24T23:46:19.895Z
 title: How to increase website traffic
 description: "The correct way to get more people visiting your website online."
