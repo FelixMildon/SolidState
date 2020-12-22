@@ -4,6 +4,9 @@ date: 2020-05-24T23:46:19.895Z
 title: How to increase website traffic
 description: "The correct way to get more people visiting your website online."
 image: assets/maxresdefault.jpg 
+template: BlogPost
+slug: /increasetraffic
+tags: ["website", "test"]
 ---
 Website Content-
 Google has pointed out time and time again, quality content is the only way to organically show up in more search results. Simply take some beautiful photos, write some great things about your business and ensure that your website is well structured. And most importantly make sure your website adds value to the customer journey. 
